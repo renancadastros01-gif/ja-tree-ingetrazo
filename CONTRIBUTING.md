@@ -1,5 +1,8 @@
 # Contribuir a JA Tree
 
+**Alcance de esta separación:** este repositorio contiene el plugin, su documentación y el ZIP instalable. Los comandos de pruebas y empaquetado descritos abajo pertenecen al entorno o paquete de fuentes original; sus carpetas `tests/`, `scripts/` y `.reference/` no se incluyen aquí. No se presentan como comandos ejecutables desde esta copia.
+
+
 JA Tree 0.1.0 es un plugin de código abierto para IngeTrazo. El código, los iconos,
 las traducciones, la documentación y el ejemplo de este proyecto se distribuyen
 bajo **GPL-3.0-or-later**. Las contribuciones se realizan bajo esa misma licencia.

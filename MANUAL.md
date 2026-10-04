@@ -22,7 +22,7 @@ jerarquía del modelo sigue intacta.
 ### 2. Instalación
 
 1. Descarga `ja_tree-0.1.0.zip` desde el catálogo de IngeTrazo o desde
-   [las versiones del repositorio](https://github.com/wrc86/ja-ingetrazo-extensions/releases).
+   [las versiones del repositorio](https://github.com/wrc86/ja-tree-ingetrazo/releases).
 2. Descomprímelo. Obtendrás una carpeta llamada **`outliner`** (nombre interno,
    se conserva para actualizar instalaciones anteriores y sus preferencias).
 3. En IngeTrazo abre **Extensiones → Abrir carpeta de plugins** y copia allí la
@@ -137,7 +137,7 @@ precisión. Estas extensiones nacen de su práctica diaria con BIM y herramienta
 
 - Web: [lineaprima.co](https://lineaprima.co) · Perfil: [lineaprima.co/julio-eduardo-angulo](https://lineaprima.co/julio-eduardo-angulo/)
 - Correo: info@lineaprima.co · Instagram: [@buskua.co](https://instagram.com/buskua.co)
-- Código y reportes de errores: [github.com/wrc86/ja-ingetrazo-extensions](https://github.com/wrc86/ja-ingetrazo-extensions/issues)
+- Código y reportes de errores: [github.com/wrc86/ja-tree-ingetrazo](https://github.com/wrc86/ja-tree-ingetrazo/issues)
 
 ---
 
@@ -153,7 +153,7 @@ French**. It uses native IngeTrazo objects; removing the extension leaves the hi
 ### 2. Installation
 
 1. Download `ja_tree-0.1.0.zip` from the IngeTrazo catalog or the
-   [repository releases](https://github.com/wrc86/ja-ingetrazo-extensions/releases).
+   [repository releases](https://github.com/wrc86/ja-tree-ingetrazo/releases).
 2. Unzip it. You get a folder named **`outliner`** (internal name, kept for upgrades).
 3. In IngeTrazo open **Extensions → Open plugins folder** and copy the whole folder there.
 4. Restart IngeTrazo.
@@ -243,4 +243,4 @@ precision. These extensions come from his daily practice with BIM and digital to
 
 - Web: [lineaprima.co](https://lineaprima.co) · Profile: [lineaprima.co/julio-eduardo-angulo](https://lineaprima.co/julio-eduardo-angulo/)
 - Email: info@lineaprima.co · Instagram: [@buskua.co](https://instagram.com/buskua.co)
-- Code and bug reports: [github.com/wrc86/ja-ingetrazo-extensions](https://github.com/wrc86/ja-ingetrazo-extensions/issues)
+- Code and bug reports: [github.com/wrc86/ja-tree-ingetrazo](https://github.com/wrc86/ja-tree-ingetrazo/issues)

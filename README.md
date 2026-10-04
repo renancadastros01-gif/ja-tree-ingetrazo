@@ -1,5 +1,12 @@
 # JA Tree para IngeTrazo
 
+<img src="outliner/icons/ja_tree.svg" width="64" alt="Icono de JA Tree">
+
+[Descargar v0.1.0](https://github.com/wrc86/ja-tree-ingetrazo/releases/tag/v0.1.0) · [Manual ES/EN](MANUAL.md) · [Documentación](docs/Inicio.md) · [Reportar un problema](https://github.com/wrc86/ja-tree-ingetrazo/issues)
+
+Repositorio independiente de **JA Tree**. Consulta las otras extensiones en el [catálogo de Julio Angulo](https://github.com/wrc86/ja-ingetrazo-extensions).
+
+
 **0.1.0 · Julio Angulo · IngeTrazo 0.5.7 / API de extensiones 2**
 
 Explorador de la jerarquía del modelo para explorar y organizar
@@ -120,7 +127,7 @@ Para desinstalar, cierra IngeTrazo y retira la carpeta outliner de plugins.
 
 ## Desarrollo y verificación
 
-Desde la raíz del repositorio:
+En el entorno de desarrollo original (los scripts y pruebas citados no están incluidos en este repositorio):
 
 ```sh
 dev-env/bin/python -m pytest tests/test_outliner.py -q
@@ -147,3 +154,9 @@ JA Tree **0.1.0** es la primera versión preparada para publicación. Se distrib
 bajo **GPL-3.0-or-later**: [licencia](LICENSE), [autoría y dependencias](NOTICES.md),
 [contribuir y reproducir las pruebas](CONTRIBUTING.md) y [cambios](CHANGELOG.md).
 Se incluye un ZIP instalable y otro con el código fuente y sus pruebas.
+
+## Galería
+
+<img src="docs/images/tree-light.png" width="360" alt="JA Tree: tree-light">
+
+<img src="docs/images/tree-dark.png" width="360" alt="JA Tree: tree-dark">
